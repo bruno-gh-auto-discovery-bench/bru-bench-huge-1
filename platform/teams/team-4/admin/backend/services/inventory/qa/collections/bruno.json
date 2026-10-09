@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "platform-collections",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
